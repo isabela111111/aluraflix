@@ -2,3 +2,9 @@ body{
     color: red;
     background-color: black;
 }
+header{
+    border-bottom: solid 2 px red;
+    padding: 20 px;
+    fonte-size: 32 px;
+    color: green;
+}
